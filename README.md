@@ -7,3 +7,5 @@ Latest news about me
 Languages
 
 Follow links
+
+![XDDXXDDXDXDXDX](https://img.shields.io/badge/-Telegram-09-09-09)
