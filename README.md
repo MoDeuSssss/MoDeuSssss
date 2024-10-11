@@ -8,4 +8,4 @@ Latest news about me
 
 Follow links
 
-![XDDXXDDXDXDXDX](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Static Badge](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)
